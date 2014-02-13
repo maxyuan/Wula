@@ -17,7 +17,7 @@ namespace CreateSAS
         static void Main(string[] args)
         {
 
-            //Console.WriteLine(GetFileContentMD5(@"C:\Program Files (x86)\Microsoft SDKs\Windows Azure\AzCopy\MikeLong\d3plot06"));
+            //////Console.WriteLine(GetFileContentMD5(@"C:\Program Files (x86)\Microsoft SDKs\Windows Azure\AzCopy\MikeLong\d3plot06"));
             //Console.WriteLine(GetFileMD5Hash(@"C:\Program Files (x86)\Microsoft SDKs\Windows Azure\AzCopy\MikeLong\d3plot06"));
 
             //Parse the connection string and return a reference to the storage account.
